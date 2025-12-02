@@ -2,5 +2,5 @@
   "build": {
     "builder": "nixpacks"
   },
-  "start": "python bot.py"
+  "start": "python hw_ekimov_bot.py"
 }
